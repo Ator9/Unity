@@ -1,4 +1,4 @@
 # Unity
 
-## Shortuts
+## Shortcuts
 - SHIFT + Space = Fullscreen
