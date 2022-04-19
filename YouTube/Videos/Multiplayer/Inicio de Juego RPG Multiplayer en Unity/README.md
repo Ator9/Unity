@@ -3,4 +3,4 @@
 El video explica como lo fuimos armando y los componentes que usamos.
 La idea es que puedan comparar sus proyectos y poder continuar aprendiendo Unity.
 
-<a href="https://www.youtube.com/watch?v=">Video en YouTube</a>
+<a href="https://youtu.be/sRA0yZEMgco">Video en YouTube</a>
