@@ -2,7 +2,8 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 
 // Requirements:
-// 1. Attach Physics Raycaster to camera
+// 1a. Attach "Physics Raycaster" to Camera or
+// 1b. Attach "Graphic Raycaster" to Canvas
 // 2. Add EventSystem Object
 
 // Layers | Event Mask (enemy, pickable)
