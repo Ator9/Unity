@@ -2,4 +2,4 @@
 
 Explicamos cómo usar los eventos del mouse como "OnPointerEnter" y "OnPointerExit" en el nuevo Input System de Unity.
 
-<a href="https://www.youtube.com/watch?v=">Video en YouTube</a>
+<a href="https://www.youtube.com/watch?v=QbvthJOZI1s">Video en YouTube</a>
